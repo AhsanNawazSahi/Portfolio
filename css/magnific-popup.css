@@ -320,6 +320,9 @@ img.mfp-img {
   .pl-md-5 {
       padding-left: 0 !important;
   }
+  .contact-img{
+    display: none;
+  }
 }
 
 /* Image responsiveness */
@@ -344,11 +347,11 @@ img.mfp-img {
       padding: 2%;
   }
 
-  .ftco-animate h2,
+  /* .ftco-animate h2,
   .about-me-heading,
   .ftco-animate p {
       text-align: center;
-  }
+  } */
 }
 
 
